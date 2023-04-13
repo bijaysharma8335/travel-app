@@ -19,7 +19,7 @@ const Activities = () => {
                 </h3>
                 <img
                     className="w-full h-full object-cover relative border-4 border-white shadow-lg"
-                    src="https://images.alphacoders.com/269/269623.jpg"
+                    src="https://www.travelandleisure.com/thmb/w-cX0OrE27oidyx7Dx0Zl9LNd7E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/jade-mountain-02-CARIBRESORTSWB22-11a9b7cfaaf54edbaa85089467f887c6.jpg"
                     alt=""
                 />
             </div>
@@ -29,7 +29,7 @@ const Activities = () => {
                 </h3>
                 <img
                     className="w-full h-full object-cover relative border-4 border-white shadow-lg"
-                    src="https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                    src="https://images.news18.com/ibnlive/uploads/2021/09/1600x1600px_b-163298971816x9.jpg"
                     alt=""
                 />
             </div>

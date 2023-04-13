@@ -13,14 +13,14 @@ const Booking = () => {
                         <option>Cozumel </option>
                     </select>
                 </div>
-                <div className="flex w-full">
-                    <div className="flex flex-col w-full lg:max-w-[250px] my-2 p-2"> 
+                <div className="flex w-full ">
+                    <div className="flex flex-col w-full lg:max-w-[250px] my-2 p-2">
                         <label>Check-in</label>
-                        <input type="date" className="border rounded-md p-2" />
+                        <input className="border rounded-md p-2" type="date" />
                     </div>
                     <div className="flex flex-col w-full lg:max-w-[250px] my-2 p-2">
                         <label>Check-out</label>
-                        <input type="date"className="border rounded-md p-2" />
+                        <input className="border rounded-md p-2" type="date" />
                     </div>
                 </div>
                 <div className="flex flex-col my-2 p-2 w-full">

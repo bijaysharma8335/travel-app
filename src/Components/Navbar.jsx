@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import { FaBars } from "react-icons/fa";
-import { BsChatSquareDots } from "react-icons/bs";
 import { FaFacebookF, FaTwitter, FaGooglePlusG, FaInstagram } from "react-icons/fa";
 const Navbar = () => {
     const [nav, setNav] = useState(false);
@@ -27,8 +26,8 @@ const Navbar = () => {
                     <a href="#contact">Contact</a>
                 </li>
             </ul>
-            <div className="flex justify-between">
-                <FaFacebookF className="mx-4" />
+            <div className="flex justify-between cursor-pointer">
+                <FaFacebookF className="mx-4 " />
                 <FaTwitter className="mx-4" />
                 <FaGooglePlusG className="mx-4" />
                 <FaInstagram className="mx-4" />

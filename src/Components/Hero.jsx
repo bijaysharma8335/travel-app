@@ -4,7 +4,7 @@ const Hero = () => {
     return (
         <div className="w-full h-[90vh]">
             <img
-                src="https://t3.ftcdn.net/jpg/03/12/16/82/360_F_312168215_vpUdulZTJkyPqiRyIHX9cUocBngfkXqV.jpg"
+                src="https://media.cntraveler.com/photos/633e253416847d13bf9bca30/master/w_3000,h_1686,c_limit/The%20Laguna_Areal-Shot-.jpg"
                 alt=""
                 className="w-full h-full object-cover"
             />
